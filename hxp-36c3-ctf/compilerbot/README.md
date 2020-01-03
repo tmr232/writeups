@@ -135,7 +135,7 @@ Our full solution is [here][compilerbot.py], configured to work with a [local se
 
 [SO Answer]: https://stackoverflow.com/questions/1246301/c-c-can-you-include-a-file-into-a-string-literal 
 [digraphs]: https://en.cppreference.com/w/cpp/language/operator_alternative
-[compilerbot.py]: #
-[server.py]: #
+[compilerbot.py]: https://github.com/tmr232/writeups/blob/master/hxp-36c3-ctf/compilerbot/compilerbot.py
+[server.py]: https://github.com/tmr232/writeups/blob/master/hxp-36c3-ctf/compilerbot/service.py
 [@liad]: https://twitter.com/liadmord
 [@tamir]: https://twitter.com/tmr232
